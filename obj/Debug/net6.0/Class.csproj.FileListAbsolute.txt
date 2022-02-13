@@ -1,0 +1,15 @@
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\bin\Debug\net6.0\Class.exe
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\bin\Debug\net6.0\Class.deps.json
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\bin\Debug\net6.0\Class.runtimeconfig.json
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\bin\Debug\net6.0\Class.dll
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\bin\Debug\net6.0\ref\Class.dll
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\bin\Debug\net6.0\Class.pdb
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.dll
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\ref\Class.dll
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.pdb
+D:\pratikler\Ödevler\koleksiyonödevleri\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
